@@ -23,6 +23,7 @@ This Project is built with some python packages and library
 3. Install Requirements 
    ```sh
    python -m venv venv
+   pip install -r requirements.txt
    ```
 4. Install taskaty package
    ```sh
