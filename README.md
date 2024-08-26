@@ -49,7 +49,7 @@ Open the terminal and type:
 ```sh 
    taskaty list
 ```
-3. To ahow all tasks either finished or unfinished:
+3. To show all tasks either finished or unfinished:
 ```sh
    taskaty list -a 
 ```
